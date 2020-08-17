@@ -10,10 +10,10 @@ Project made with the purpose of studying [A\* search algorithm](https://en.wiki
 Project under [MIT License](LICENSE.txt).
 
 ## 📽️ Demos
-<center style="display: flex; align-items: center; justify-content: space-between;">
-<img src="gifs/test.gif" alt="test" height=300>
-<img src="gifs/test2.gif" alt="test1" height=300>
-</center>
+<p align="center">
+<img src="gifs/test.gif" alt="test" height=350>
+<img src="gifs/test2.gif" alt="test1" height=350>
+</p>
 
 ## 💻 Usage 
 
