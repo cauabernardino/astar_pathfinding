@@ -31,6 +31,8 @@ Project under [MIT License](LICENSE.txt).
     - Press `space` to start the algorithm;
     - Pressing `c` resets it all.
 
+3. The quantity of nodes can be changed applying other values to the `ROWS` constant in `main.py` file. The standard is set to `40`.
+
 
 ## ⚙️ Setup
 First, clone this repo with:
